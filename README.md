@@ -10,6 +10,7 @@ Site institucional desenvolvido para **Simetria Studio 3D**, estúdio especializ
 O objetivo é automatizar a vitrine de produtos, agilizar orçamentos e profissionalizar a presença digital do cliente, reduzindo a dependência de redes sociais (Instagram/WhatsApp).
 
 Repositório: https://paulozaka.github.io/simetria/
+Link no InfinityFree: https://simetria-3d.xo.je
 
 Tecnologias Utilizadas
 
